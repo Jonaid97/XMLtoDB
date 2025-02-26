@@ -1,0 +1,10 @@
+<records>
+    <record>
+        <name>John Doe</name>
+        <value>Software Engineer</value>
+    </record>
+    <record>
+        <name>Jane Smith</name>
+        <value>Data Analyst</value>
+    </record>
+</records>
